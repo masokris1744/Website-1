@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>The Young Right</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <div class="menu">☰</div>
+    <h1 class="logo">THE<br>YOUNG<br>RIGHT</h1>
+    <div class="cart">🛒 0</div>
+  </header>
+
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <div class="hero-text">
+      <h2>THE YOUNG RIGHT</h2>
+      <p class="headline">
+        The fastest-growing Conservative Lifestyle Brand in America.
+      </p>
+      <p class="sub">Entirely led and run by Gen Z.</p>
+    </div>
+  </section>
+
+  <!-- INFO SECTION -->
+  <section class="info">
+    <h3>EDITORIAL PODCAST EVENTS<br>ACTIVATIONS MERCH AMBASSADORS</h3>
+    <p>
+      We understand how to reach, influence, and impact the next generation
+      because we are the next generation.
+    </p>
+    <p><em>And, it’s working.</em></p>
+  </section>
+
+  <!-- IMAGE GRID -->
+  <section class="grid">
+    <div class="grid-item"><img src="cross.jpg" alt="cross"></div>
+    <div class="grid-item"><img src="flag.jpg" alt="flag"></div>
+    <div class="grid-item"><img src="car.jpg" alt="car"></div>
+  </section>
+
+</body>
+</html>
